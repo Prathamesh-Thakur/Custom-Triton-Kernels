@@ -1,0 +1,50 @@
+What is the capital of Australia?
+Explain the theory of relativity in exactly one sentence.
+Who won the World Series in 2016?
+What is the boiling point of water in Celsius and Fahrenheit?
+Translate 'Hello, I am testing an AI model' into Spanish.
+Name three primary colors.
+What is the distance from the Earth to the Moon?
+Define the word 'serendipity'.
+Who wrote the play Hamlet?
+What is the chemical symbol for Gold?
+Write a three-paragraph sci-fi story about a sentient toaster that wants to explore space.
+Compose a sonnet about the struggles of writing GPU kernels.
+Explain the plot of 'The Matrix' as if you were talking to a golden retriever.
+Draft a polite email to a boss asking for a two-week extension on a major project.
+Invent a new recipe that uses peanut butter, jalapeños, and pasta, and write the instructions.
+Describe the feeling of nostalgia using only water metaphors.
+Write a dialogue between Socrates and a modern smartphone.
+Draft a five-step morning routine for a professional esports player.
+Write a short eulogy for a mechanical keyboard that finally broke after 10 years.
+Create a pitch for a movie where gravity reverses for one minute every Tuesday.
+Explain the difference between a process and a thread in operating systems.
+Summarize the history of the Roman Empire in exactly 150 words.
+How does a four-stroke internal combustion engine work? Break it down step-by-step.
+What are the main causes of the French Revolution?
+Explain the mathematical concept of a derivative to a high school student.
+Describe the biological lifecycle of a butterfly.
+What is the function of the mitochondria in a cell?
+How do black holes form in space?
+Explain the economic concept of supply and demand.
+What is the Fermi Paradox, and what are three potential solutions to it?
+If a train travels 60 mph for 2 hours, then 80 mph for 1 hour, what is its total distance traveled?
+Solve this riddle: I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?
+List five troubleshooting steps for a computer monitor that won't turn on.
+What comes next in the sequence: 2, 4, 8, 16, 32... and why?
+Explain why the Monty Hall problem works probabilistically.
+If I have 3 apples, give you 1, then buy 5 more, how many do I have left?
+Categorize these items as fruit or vegetable: Tomato, Carrot, Apple, Potato, Banana.
+Identify the logical fallacy in this statement: 'Everyone is buying this car, so it must be the best'.
+Provide a step-by-step guide on how to solve the first layer of a Rubik's Cube.
+Why is the sky blue? Explain step-by-step using Rayleigh scattering.
+Write a harsh but fair review of a fictional restaurant called 'The Muddy Spoon'.
+Format a simple resume for a dog applying for a job as a mall security guard.
+Write a socially graceful way to tell someone they have spinach stuck in their teeth.
+List ten alternative, unconventional uses for a standard metal paperclip.
+Summarize the Wikipedia article on 'Coffee' using bullet points.
+Give me three reasons why a crew of pirates would make terrible accountants.
+Write a weather forecast script for a planet where it rains liquid methane.
+Generate a list of 10 random, plausible-sounding Silicon Valley tech startup names.
+Explain how to tie a shoelace using only anatomical hand terms.
+Write a short manifesto for a society entirely governed by house cats.
